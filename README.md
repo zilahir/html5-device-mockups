@@ -7,7 +7,9 @@
 HTML5 device mockups v3 :iphone::computer:
 ====================
 
-You can view the demo page here: <https://pixelsign.github.io/html5-device-mockups/>
+```
+Demo page is under construction
+```
 
 Use on...
 * Your website / splash screen
@@ -111,10 +113,19 @@ Use this example or grap the code from the HTML generator on our demo site:
 Created by:
 ---
 
+This is a [forked](https://github.com/pixelsign/html5-device-mockups) repository of `pixelsign`. due to it seems abandoned, and I took it up, willing to continue.
+
+## Currently
+
+> Richard Zilahi
+> * zilahi@gmail.com
+> * [richardzilahi.hu](https://richardzilahi.hu)
+
+## Original
+
 > Tomi Hiltunen
 > * tomi@innovaniac.com
 > * http://innovaniac.com
-
 
 > Angelos Arnis
 > * angelos.arnis@gmail.com

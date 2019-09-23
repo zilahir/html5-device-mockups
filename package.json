@@ -1,6 +1,6 @@
 {
-  "name": "html5-device-mockups",
-  "version": "3.2.1",
+  "name": "@zilahir/html5-device-mockups",
+  "version": "1.0.0",
   "description": "HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.",
   "main": "dist/device-mockups.min.css",
   "scripts": {
@@ -14,5 +14,5 @@
     "grunt-contrib-cssmin": "^2.1.0",
     "grunt-sass": "^2.0.0"
   },
-  "link": "https://github.com/pixelsign/html5-device-mockups"
+  "link": "https://github.com/zilahir/html5-device-mockups"
 }
