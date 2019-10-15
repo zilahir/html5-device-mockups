@@ -1557,10 +1557,10 @@
 .device[data-device="iPhoneX"][data-orientation="portrait"][data-color="dark"] {
   padding-bottom: 198.89807%; }
   .device[data-device="iPhoneX"][data-orientation="portrait"][data-color="dark"] .screen {
-    top: 3.1856%;
+    top: 2.49307%;
     left: 6.88705%;
-    width: 86.2259%;
-    height: 93.62881%; }
+    width: 87.60331%;
+    height: 95.01385%; }
   .device[data-device="iPhoneX"][data-orientation="portrait"][data-color="dark"]::after {
     content: '';
     background-image: url(../device-mockups/iPhoneX/portrait_dark.png); }

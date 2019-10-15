@@ -1,6 +1,6 @@
 {
   "name": "@zilahir/html5-device-mockups",
-  "version": "3.2.3",
+  "version": "3.2.4",
   "description": "HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.",
   "main": "dist/device-mockups.min.css",
   "scripts": {
